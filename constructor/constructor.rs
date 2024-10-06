@@ -32,4 +32,6 @@ impl Animal {
         } = self;
         println!("I created a new animal called {animal_name}, he is {age} years old, and he live in a {territory}");
     }
+
+
 }
